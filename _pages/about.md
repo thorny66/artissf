@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Interactive. Interdisciplinary. 
+Interactive. Interdisciplinary.
+
 
 At ArtIs we create artistic experiences that immerse the audience through every artform. We connect artists in the bay area together to push the envolope on modren artistic expression and entertainment. 
 
